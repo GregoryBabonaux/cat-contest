@@ -11,3 +11,9 @@ In this demo, we make an intensive use of services provided by AWS for serverles
 - CloudFront
 - Rekognition (we will prevent our users to upload non-cat images with a pre-validation based on image rekognition)
 
+
+
+## Usefull links
+- Redux / Router / Thunk structure : https://daveceddia.com/react-project-structure/
+- Redux Saga : https://github.com/redux-saga/redux-saga
+- Discover Redux Saga (in FR) : http://www.babonaux.com/2017/07/17/on-decouvrait-redux-saga/
